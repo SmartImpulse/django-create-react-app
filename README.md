@@ -1,4 +1,4 @@
-# django-create-react-app
+# django-startreactapp
 
 
 ## Create an app
